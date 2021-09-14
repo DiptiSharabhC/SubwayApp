@@ -1,1 +1,1 @@
-web:npm run development -- --watch
+web:yarn run dev
