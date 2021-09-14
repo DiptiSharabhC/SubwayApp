@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "5eee651f739f8c674fd736ee"
+  },
+  "name": "Chicken-Sandwich",
+  "image": "grilled-chiken sandwich.png",
+  "price": "650",
+  "size": "12 inch"
+},{
+  "_id": {
+    "$oid": "5eee6671a27a66807cf2bea3"
+  },
+  "name": "classic sandwich",
+  "image": "classic sandwich.png",
+  "price": "300",
+  "size": "12 inch"
+},{
+  "_id": {
+    "$oid": "5eee6692a27a66807cf2bea4"
+  },
+  "name": "mexican-patty-sandwich",
+  "image": "mexican-patty-sandwich.png",
+  "price": "200",
+  "size": "6 inch"
+},{
+  "_id": {
+    "$oid": "5eee66a5a27a66807cf2bea5"
+  },
+  "name": "mexican-patty-sandwichh",
+  "image": "mexican-patty-sandwich.png",
+  "price": "500",
+  "size": "6 inch"
+},{
+  "_id": {
+    "$oid": "5eee66c4a27a66807cf2bea6"
+  },
+  "name": "turkey-sandwich",
+  "image": "turkey-sandwich.png",
+  "price": "750",
+  "size": "12 inch"
+},{
+  "_id": {
+    "$oid": "5eee66cfa27a66807cf2bea7"
+  },
+  "name": "submarineSandwich",
+  "image": "submarineSandwich.png",
+  "price": "800",
+  "size": "12 inch"
+},{
+  "_id": {
+    "$oid": "5eee66eea27a66807cf2bea8"
+  },
+  "name": "veggie-delight",
+  "image": "veggie-delight.png",
+  "price": "600",
+  "size": "12 inch"
+},{ 
+  "_id": {
+    "$oid": "5eee6717a27a66807cf2bea9"
+  },
+  "name": "vegetable-sandwich",
+  "image": "vegetable-sandwich.png",
+  "price": "500",
+  "size": "12 inch"
+}]
